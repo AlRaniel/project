@@ -14,11 +14,14 @@
         flex-wrap: wrap;
     }
     .color-container{
-        height: 550px;
+        height: 400px;
+        width: 270px;
     }
+
+    
     .project-img{
-        height: 450px;
-        width: 500px;
+        height: 300px;
+        width: 400px;
     }
 }
 
@@ -70,7 +73,7 @@
         position: relative;
     }*/
     .color-container{
-        height: 150px;
+        height: 360px;
     }
 }
 
